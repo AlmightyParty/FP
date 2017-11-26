@@ -1,0 +1,23 @@
+{
+  "name": "fp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fp1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ramda": "^0.24.1",
+    "underscore": "^1.8.3"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "promise-generator": "^1.0.0",
+    "promise-middleware": "^1.0.7",
+    "redux-promise-middleware": "^4.4.1",
+    "redux-thunk": "^2.2.0"
+  }
+}
